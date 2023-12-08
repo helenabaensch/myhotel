@@ -1,0 +1,18 @@
+body {
+    background-image: radial-gradient(green, #FD6A02);
+    position: absolute;
+    top: 300px;
+    width: 100%;
+    text-align: center;
+    font-family: "brush script mt";
+    font-size: 100px;
+    color: #FD6A02;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
